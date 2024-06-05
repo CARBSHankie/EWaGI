@@ -42,3 +42,4 @@ void riskAssesment() {
 		exposureAtRisk = riskOfDefault*expectedLossGivenDefault*currentDebtLevel;
 	}
 }
+//credit change 
