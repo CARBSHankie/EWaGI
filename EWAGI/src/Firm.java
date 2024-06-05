@@ -13,7 +13,7 @@ import repast.simphony.space.grid.Grid;
 import repast.simphony.util.ContextUtils;
 import java.util.logging.Logger;
 
-
+//New  test
 
 
 public class Firm{
